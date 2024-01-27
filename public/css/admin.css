@@ -1,0 +1,49 @@
+
+::-webkit-scrollbar{
+    width: 12px;
+}
+::-webkit-scrollbar-track{
+    background-color: transparent;
+}
+::-webkit-scrollbar-thumb{
+    background-color:rgb(196, 26, 248);
+    border-radius: 30px;
+}
+
+.copyright {
+    background-color: #460a52;
+    }
+    .fixed {
+    -ms-flex: 0 0 250px;
+    flex: 0 0 250px;
+    }
+    .content-grey {
+    background-color: #fbe0ed;
+    }
+    hr {
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+    }
+    .img-profile {
+    height: 2rem;
+    width: 2rem;
+    }
+    .profile-font {
+    color: #460a52 !important;
+    font-size: 80%;
+    font-weight: 400;
+    }
+    #admin_space{
+    background-color: #460a52;
+    width: 20%;
+
+    }
+    #ajoute_prodcut{
+        background-color: #460a52;
+    }
+   
+    .card-header {
+    background-color: #f8f9fc;
+    border-bottom: 1px solid #e3e6f0;
+    }
+    
